@@ -1,1 +1,1 @@
-console.log(' Jahongir qushildi');
+console.log('qushildi');
