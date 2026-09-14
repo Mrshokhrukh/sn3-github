@@ -5,4 +5,9 @@ console.log('GITHUB MAVZUSI, UPADATE BY SHOKHRUKH');
 
 console.log('HEY, AGAR DSA ORGANMASEZ, SIZ YAXSHI DASTURCHI BOLOMISIZ !');
 
-console.log('javascript fayldagi ozgarish');
+
+
+
+console.log("salom hammaga");
+
+

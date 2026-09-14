@@ -1,1 +1,16 @@
 console.log('qushildi');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d
