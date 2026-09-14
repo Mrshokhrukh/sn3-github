@@ -1,6 +1,6 @@
 
 console.log('GITHUB MAVZUSI');
-console.log('GITHUB MAVZUSI');
+console.log('GITHUB MAVZUSI, BY OHUNJON UPDATE');
 
 
 console.log('HEY, AGAR DSA ORGANMASEZ, SIZ YAXSHI DASTURCHI BOLOMISIZ !');
