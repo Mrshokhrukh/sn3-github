@@ -11,6 +11,4 @@ console.log('qushildi');
 
 
 
-
-
-d
+//Behruz
