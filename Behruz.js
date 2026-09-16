@@ -1,1 +1,1 @@
-console.log('ASSvfdvrALOMU ALAYKUM. ');
+console.log('master ');
