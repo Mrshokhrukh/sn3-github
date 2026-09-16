@@ -11,4 +11,4 @@ console.log('qushildi');
 
 
 
-//Behruz
+console.log('Behruz');
